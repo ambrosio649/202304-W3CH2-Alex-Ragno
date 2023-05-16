@@ -1,3 +1,4 @@
+/* eslint-disable max-params */
 import { Character } from './character.ts';
 
 export class Fighter extends Character {

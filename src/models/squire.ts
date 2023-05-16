@@ -1,3 +1,4 @@
+/* eslint-disable max-params */
 import { Character } from './character.ts';
 import { Fighter } from './fighter.ts';
 
